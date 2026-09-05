@@ -1,8 +1,3 @@
-# Personal uploads
 uploads/profile/
-
-# Local database/config files
 db.php
-
-# XAMPP/local files
 xampp/
