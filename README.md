@@ -86,6 +86,32 @@ Database connection files and personal profile uploads are excluded from the pub
 - More interview question categories
 - Additional aptitude topics
 - More mock interview features
+  
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Aptitude Practice
+![Aptitude Practice](screenshots/aptitude.png)
+
+### Technical Interview
+![Technical Interview](screenshots/technical.png)
+
+### HR Interview Practice
+![HR Interview Practice](screenshots/hr.png)
+
+### Mock Interview
+![Mock Interview](screenshots/mock-interview.png)
+
+### Bookmarks
+![Bookmarks](screenshots/bookmarks.png)
+
+### Progress Tracking
+![Progress Tracking](screenshots/progress.png)
+
+### Profile & Settings
+![Profile & Settings](screenshots/profile.png)
 
 ## 👩‍💻 Project
 
